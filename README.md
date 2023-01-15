@@ -3,7 +3,7 @@
 ## First time
 | Event   |      Code      |
 |----------|-------------|
-|  Clone the repository |  ```https://github.com/ShahadatAnik/BloodBucket-flask-mongo.git``` |
+|  Clone the repository |  ```https://github.com/fabiha88/BloodBucket--Flask--MongoDB.git``` |
 |  Create a virtual environment |  ```python -m venv venvBloodBucket``` |
 |  Activate the virtual environment |  ```.\venvBloodBucket\Scripts\activate``` |
 |  Install the requirements |  ```pip install -r requirements.txt``` |
